@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JaiKato
-- 👀 I’m interested in Computer Sience
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Python, Html, C#, JavaScript
 - 📫 How to reach me Discord: JaiKato#9263
 
